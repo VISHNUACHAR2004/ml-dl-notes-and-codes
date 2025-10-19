@@ -8,7 +8,7 @@ This repository is my personal learning space where I explain and implement key 
 ---
 
 ## 📘 Contents
-- [Machine Learning](./Machine-Learning/)
+- [Machine Learning](https://github.com/VISHNUACHAR2004/ml-dl-notes-and-codes/tree/main/ML)
 - [Deep Learning](./Deep-Learning/)
 - [Natural Language Processing](./NLP/)
 - [Resources](./resources/)
